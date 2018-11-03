@@ -6,11 +6,11 @@
         "keywords"              : ["theme", "Ceres", "template"],
         "type"                  :"theme",
         "require"               : [],
-        "serviceProvider"       :"Theme\\Providers\\ThemeServiceProvider",
+        "serviceProvider"       :"Theme\\Providers\\VineyardServiceProvider",
         "dataProviders"         :
         [
             {
-                "key"           :"Theme\\Containers\\ThemeContainer",
+                "key"           :"Theme\\Containers\\VineyardContainer",
                 "name"          :"Dark background",
                 "description"   :"Change the background colour of the Ceres template"
             }

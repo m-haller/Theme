@@ -3,7 +3,7 @@ namespace Theme\Providers;
 
 use Plenty\Plugin\ServiceProvider;
 
-class ThemeServiceProvider extends ServiceProvider
+class VineyardServiceProvider extends ServiceProvider
 {
 
     /**
