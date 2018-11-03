@@ -1,5 +1,5 @@
 <?php
-namespace Theme\Containers;
+namespace Vineyard\Containers;
 
 use Plenty\Plugin\Templates\Twig;
 
