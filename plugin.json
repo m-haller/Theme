@@ -1,16 +1,16 @@
     {
-        "name"                  :"Vineyard",
+        "name"                  :"Theme",
         "description"           :"Basic theme plugin",
-        "namespace"             :"Vineyard",
+        "namespace"             :"Theme",
         "author"                :"Michael Haller",
-        "keywords"              : ["theme", "Vineyard", "template"],
+        "keywords"              : ["theme", "template"],
         "type"                  :"theme",
         "require"               : [],
-        "serviceProvider"       :"Vineyard\\Providers\\ThemeServiceProvider",
+        "serviceProvider"       :"Theme\\Providers\\ThemeServiceProvider",
         "dataProviders"         :
         [
             {
-                "key"           :"Vineyard\\Containers\\ThemeContainer",
+                "key"           :"Theme\\Containers\\ThemeContainer",
                 "name"          :"Dark background",
                 "description"   :"Change the background colour of the Ceres template"
             }
