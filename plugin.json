@@ -1,6 +1,7 @@
     {
         "name"                  :"Theme",
         "description"           :"Basic theme plugin",
+        "version"               :"0.0.1",
         "namespace"             :"Theme",
         "author"                :"Michael Haller",
         "keywords"              : ["theme", "template"],
